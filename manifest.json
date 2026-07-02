@@ -1,0 +1,20 @@
+{
+    "name": "XYIHE",
+    "short_name": "XYIHE",
+    "description": "XYIHE — An independent research team crafting privacy-first, locally-runnable digital products from Exeter, United Kingdom.",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#000000",
+    "theme_color": "#e82127",
+    "lang": "en",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "images/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
