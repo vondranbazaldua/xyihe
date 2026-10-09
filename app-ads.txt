@@ -1,2 +1,2 @@
 #facebook，meta
-facebook.com, 1886689779380460, DIRECT, c3e20eee3f780d68
+facebook.com, 1886689779380460, RESELLER, c3e20eee3f780d68
